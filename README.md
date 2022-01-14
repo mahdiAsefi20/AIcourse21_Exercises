@@ -24,6 +24,13 @@ Where **_X(i,j)_** is equal to one if branch **j** is assigned to location **i**
 
 Solve the above problem by using **_Simulated Annealing_** Algorithm with at least **150** epoch.
 
+## Table (A)
+
+![TableA](https://user-images.githubusercontent.com/66471227/149561611-cedf3b27-f784-4d6c-b517-7e2ac27f3060.PNG)
+
+## Table (B)
+
+![tableB](https://user-images.githubusercontent.com/66471227/149561674-a0d76a73-1e8e-44bf-803d-62988ec02090.PNG)
 
 
 
